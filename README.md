@@ -1,4 +1,4 @@
-# Portafolio_AP_LuAd
+# Project: My first Portafolio WebApp
 
 Este proyecto fue desarrolado durante la formación como Full Stack Developer Junior en el programa "Argentina Programa 2021". Se trata de un portafolio dinámico y personalizable.
 El backend, escrito en Java, se desplegó en la plataforma Koyeb.  El portafolio posee una funcionalidad de inicio de sesión, que permite acceder al modo de edición. Esta capacidad facilita la actualización y personalización del contenido.
