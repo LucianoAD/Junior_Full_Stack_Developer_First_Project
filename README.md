@@ -1,29 +1,59 @@
-# Project: My first Portafolio WebApp
+## 📖 Overview
 
-Este proyecto fue desarrolado durante la formación como Full Stack Developer Junior en el programa "Argentina Programa 2021". Se trata de un portafolio dinámico y personalizable.
-El backend, escrito en Java, se desplegó en la plataforma Koyeb.  El portafolio posee una funcionalidad de inicio de sesión, que permite acceder al modo de edición. Esta capacidad facilita la actualización y personalización del contenido.
-En el lado del frontend, se utilizo el framework Angular para adaptarlo a una arquitectura modular. Ademas, el diseño es  responsivo.
-Los datos de la aplicación se almacenaron en una base de datos MySQL gestionada a traves de Clever Cloud. 
+Full-stack portfolio management application built with Angular and Spring Boot.
 
-A continuación, encontrarás los enlaces a las diferentes partes del proyecto:
+The application allows dynamic content management through a secure authentication system, enabling users to log in and update portfolio information in real time.
 
-   -  Frontend del Portafolio (Firebase):
-    https://frontproyectointegradorap.web.app/
-- APIs del Backend (Koyeb):
-    https://backportafolio-lansel.koyeb.app/
+Aplication of practical full-stack development concepts including:
 
+- REST API development
+- JWT authentication
+- CRUD operations
+- Modular frontend architecture
+- Responsive design
+- Database integration
+- Deployment across cloud services
 
-______________________________________________________________________________________________________________
+---
 
-This project was developed during the training as a Junior Full Stack Developer in the "Argentina Program 2021." It is a dynamic and customizable portfolio. The backend, written in Java, was deployed on the Koyeb platform. The portfolio features a login functionality that allows access to the editing mode, facilitating content updates and customization.
+## 🛠 Technologies
 
-On the frontend side, the Angular framework was used to adapt it to a modular architecture. Additionally, the design is responsive. Application data was stored in a MySQL database managed through Clever Cloud.
+**Frontend**
+- Angular
+- TypeScript
+- HTML/CSS
 
-Below, you will find links to different parts of the project:
+**Backend**
+- Java
+- Spring Boot
+- REST APIs
+- JWT Authentication
 
-Frontend of the Portfolio (Firebase):
+**Database**
+- MySQL
+- Clever Cloud
+
+**Deployment**
+- Firebase
+- Koyeb
+
+---
+
+## 🚀 Main Features
+
+- Secure login system
+- Dynamic content editing
+- Responsive interface
+- Portfolio section management
+- Backend API integration
+- Real-time content updates
+
+---
+
+## 🌐 Live Demo
+
+**Frontend**
 https://frontproyectointegradorap.web.app/
 
-Backend APIs (Koyeb):
+**Backend APIs**
 https://backportafolio-lansel.koyeb.app/
-
